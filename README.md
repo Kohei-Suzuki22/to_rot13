@@ -7,7 +7,7 @@
 
 ### answer.rb
 コマンドラインによる標準入力をROT13変換して出力します。
-入力については、空の文字列またはASCIIによる印字不可能な文字列を入力すると例外が起きるように設計してあります 
+入力については、空の文字列またはASCIIによる印字不可能な文字列を入力すると例外が起きるように設計してあります。
 
 ### validation.rb 
 answer.rbで作成した、My_informationsが JSON Schema の仕様に当てはまっているかを判定します。
@@ -17,7 +17,7 @@ answer.rbで作成した、My_informationsが JSON Schema の仕様に当ては�
 
 ### answer_spec.rb 
 lib/answer.rbのテストを実行します。
-入出力に対してのテストと、#to_rot13(ROT13)変換に対するテストを記述しました。
+入出力に対してのテストと、#to_rot13(ROT13変換)に対するテストを記述しました。
 
 ### validation.rb
 lib/validation.rbのテストを実行します。
