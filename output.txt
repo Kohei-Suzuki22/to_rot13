@@ -1,0 +1,6 @@
+{
+  "github": "Kohei-Suzuki22",
+  "twitter": "bhkbb2",
+  "answer": "nop",
+  "homepage": "https://household-app.herokuapp.com/"
+}
